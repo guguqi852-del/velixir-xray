@@ -1,1 +1,1 @@
-{}
+{"dependencies":{"extract-zip":"^2.0.1"},"description":"VLESS + WebSocket + TLS node for Velixir free plan. All credentials come from environment variables, never from this repo.","engines":{"node":"22"},"name":"velixir-xray","private":true,"scripts":{"postinstall":"node install-xray.js","start":"node launcher.js"},"version":"1.0.0"}
